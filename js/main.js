@@ -381,8 +381,8 @@ $('[name="Fastback"]').click(function() {
         var view="-top.png";
         var view2="-inside.png";
 
-        var folder ="../images/";
-        var folder2 ="../images/accessories/";
+        var folder ="./images/";
+        var folder2 ="./images/accessories/";
 
         var total= folder+carstyle+carmodel+"-"+colour+spoiler+angle;
         var total2= folder+carstyle+carmodel+"-"+colour+spoiler+angle2;
